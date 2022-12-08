@@ -26,9 +26,17 @@ An imbalanced classification report has been generated
 
 ## Oversampling
 
+<img width="552" alt="Screenshot 2022-12-08 at 6 27 33 PM" src="https://user-images.githubusercontent.com/111096384/206588480-96c86fc9-5005-406b-bd96-bd68d9252fa5.png">
+
+<img width="564" alt="Screenshot 2022-12-08 at 6 27 49 PM" src="https://user-images.githubusercontent.com/111096384/206588492-1fde5250-f033-4147-a964-341fdcb4491b.png">
+
 ## Undersampling
 
+<img width="554" alt="Screenshot 2022-12-08 at 6 27 56 PM" src="https://user-images.githubusercontent.com/111096384/206588543-9d34f79c-5466-46ae-a580-a58763daf259.png">
+
 ## Combination (Over and Under) Sampling
+
+<img width="562" alt="Screenshot 2022-12-08 at 6 28 02 PM" src="https://user-images.githubusercontent.com/111096384/206588557-714952d2-fec8-4550-8879-ccaf81f2c637.png">
 
 # Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk 
 
@@ -36,6 +44,8 @@ The combinatorial SMOTEENN algorithm does the following:
 An accuracy score for the model is calculated 
 A confusion matrix has been generated 
 An imbalanced classification report has been generated
+
+<img width="552" alt="Screenshot 2022-12-08 at 6 27 33 PM" src="https://user-images.githubusercontent.com/111096384/206588741-38d3c7c8-5365-49e0-a6c7-16e1d7e4c061.png">
 
 # Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk 
 
