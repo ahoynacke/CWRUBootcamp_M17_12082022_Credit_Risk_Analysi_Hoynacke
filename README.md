@@ -41,9 +41,9 @@ An imbalanced classification report has been generated
 # Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk 
 
 The combinatorial SMOTEENN algorithm does the following:
-An accuracy score for the model is calculated 
-A confusion matrix has been generated 
-An imbalanced classification report has been generated
+- An accuracy score for the model is calculated 
+- A confusion matrix has been generated 
+- An imbalanced classification report has been generated
 
 <img width="552" alt="Screenshot 2022-12-08 at 6 27 33 PM" src="https://user-images.githubusercontent.com/111096384/206588741-38d3c7c8-5365-49e0-a6c7-16e1d7e4c061.png">
 
