@@ -20,9 +20,9 @@ This new assignment consists of three technical analysis deliverables and a writ
 # Deliverable 1: Use Resampling Models to Predict Credit Risk 
 
 For all three algorithms, the following have been completed:
-An accuracy score for the model is calculated
-A confusion matrix has been generated
-An imbalanced classification report has been generated 
+- An accuracy score for the model is calculated
+- A confusion matrix has been generated
+- An imbalanced classification report has been generated 
 
 ## Oversampling
 
