@@ -49,8 +49,7 @@ The combinatorial SMOTEENN algorithm does the following:
 
 # Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk 
 
-
-## The BalancedRandomForestClassifier algorithm does the following:
+The BalancedRandomForestClassifier algorithm does the following:
 - An accuracy score for the model is calculated 
 - A confusion matrix has been generated 
 - An imbalanced classification report has been generated 
@@ -60,8 +59,7 @@ The combinatorial SMOTEENN algorithm does the following:
 
 <img width="665" alt="Screenshot 2022-12-08 at 7 07 41 PM" src="https://user-images.githubusercontent.com/111096384/206592950-9b476fb2-3f2d-4d91-b01e-3f0e2b7e3f99.png">
 
-
-## The EasyEnsembleClassifier algorithm does the following:
+The EasyEnsembleClassifier algorithm does the following:
 - An accuracy score of the model is calculated 
 - A confusion matrix has been generated 
 - An imbalanced classification report has been generated
