@@ -26,17 +26,17 @@ An imbalanced classification report has been generated
 
 ## Oversampling
 
-<img width="552" alt="Screenshot 2022-12-08 at 6 27 33 PM" src="https://user-images.githubusercontent.com/111096384/206588480-96c86fc9-5005-406b-bd96-bd68d9252fa5.png">
+<img width="554" alt="Screenshot 2022-12-08 at 7 51 14 PM" src="https://user-images.githubusercontent.com/111096384/206598087-24abc52a-c129-4cca-b3c7-390ed7bd3f59.png">
 
-<img width="564" alt="Screenshot 2022-12-08 at 6 27 49 PM" src="https://user-images.githubusercontent.com/111096384/206588492-1fde5250-f033-4147-a964-341fdcb4491b.png">
+<img width="559" alt="Screenshot 2022-12-08 at 7 51 18 PM" src="https://user-images.githubusercontent.com/111096384/206598100-55016545-a5b6-4bdc-9174-f57e8c3d17ec.png">
 
 ## Undersampling
 
-<img width="554" alt="Screenshot 2022-12-08 at 6 27 56 PM" src="https://user-images.githubusercontent.com/111096384/206588543-9d34f79c-5466-46ae-a580-a58763daf259.png">
+<img width="559" alt="Screenshot 2022-12-08 at 7 51 20 PM" src="https://user-images.githubusercontent.com/111096384/206598140-6ff0fcb3-48ca-400a-a014-27941a3bddd5.png">
 
 ## Combination (Over and Under) Sampling
 
-<img width="562" alt="Screenshot 2022-12-08 at 6 28 02 PM" src="https://user-images.githubusercontent.com/111096384/206588557-714952d2-fec8-4550-8879-ccaf81f2c637.png">
+<img width="557" alt="Screenshot 2022-12-08 at 7 51 22 PM" src="https://user-images.githubusercontent.com/111096384/206598159-428ba55c-aa01-465e-a187-f81a30861204.png">
 
 # Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk 
 
@@ -72,9 +72,41 @@ The EasyEnsembleClassifier algorithm does the following:
 
 Results:
 
+Naive OverSampling: 
+- Accuracy: 68%
+- percision: 99%
+- Recall: 69%
+
+Smote OverSampling: 
+- Accuracy: 62%
+- percision: 99%
+- Recall: 64%
+
+Under Sampling: 
+- Accuracy: 51%
+- percision: 99%
+- Recall: 45%
+
+Combo Sampling: 
+- Accuracy: 64%
+- percision: 99%
+- Recall: 56%
+
+BalancedRandomForestClassifier
+- Accuracy: 93%
+- percision: 99%
+- Recall: 96%
+
+EasyEnsembleClassifier
+- Accuracy: 96%
+- percision: 99%
+- Recall: 96%
+
 Summary:
 
-Recommendation:
+For this project I am ultimately trying to identify good canidates for loans that will not default on their loan. Following that reasoning I considered the recall score to be the most important. Based on the model results the Easy Ensemble Classifier reflects the higest accuracy and recall so I would reccommend using this model. 
+
+
 
 
 
