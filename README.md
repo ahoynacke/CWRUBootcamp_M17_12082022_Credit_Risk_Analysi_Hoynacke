@@ -34,10 +34,6 @@ For all three algorithms, the following have been completed:
 
 <img width="559" alt="Screenshot 2022-12-08 at 7 51 20 PM" src="https://user-images.githubusercontent.com/111096384/206598140-6ff0fcb3-48ca-400a-a014-27941a3bddd5.png">
 
-## Combination (Over and Under) Sampling
-
-<img width="557" alt="Screenshot 2022-12-08 at 7 51 22 PM" src="https://user-images.githubusercontent.com/111096384/206598159-428ba55c-aa01-465e-a187-f81a30861204.png">
-
 # Deliverable 2: Use the SMOTEENN algorithm to Predict Credit Risk 
 
 The combinatorial SMOTEENN algorithm does the following:
@@ -45,7 +41,7 @@ The combinatorial SMOTEENN algorithm does the following:
 - A confusion matrix has been generated 
 - An imbalanced classification report has been generated
 
-<img width="552" alt="Screenshot 2022-12-08 at 6 27 33 PM" src="https://user-images.githubusercontent.com/111096384/206588741-38d3c7c8-5365-49e0-a6c7-16e1d7e4c061.png">
+<img width="557" alt="Screenshot 2022-12-08 at 7 51 22 PM" src="https://user-images.githubusercontent.com/111096384/206598159-428ba55c-aa01-465e-a187-f81a30861204.png">
 
 # Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk 
 
