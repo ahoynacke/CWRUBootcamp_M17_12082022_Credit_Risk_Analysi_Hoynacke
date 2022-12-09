@@ -50,16 +50,25 @@ The combinatorial SMOTEENN algorithm does the following:
 # Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk 
 
 
-The BalancedRandomForestClassifier algorithm does the following:
-An accuracy score for the model is calculated 
-A confusion matrix has been generated 
-An imbalanced classification report has been generated 
-The features are sorted in descending order by feature importance
+## The BalancedRandomForestClassifier algorithm does the following:
+- An accuracy score for the model is calculated 
+- A confusion matrix has been generated 
+- An imbalanced classification report has been generated 
+- The features are sorted in descending order by feature importance
 
-The EasyEnsembleClassifier algorithm does the following:
-An accuracy score of the model is calculated 
-A confusion matrix has been generated 
-An imbalanced classification report has been generated
+<img width="963" alt="Screenshot 2022-12-08 at 7 07 30 PM" src="https://user-images.githubusercontent.com/111096384/206592927-c9608267-1f58-4ecb-9800-cbd140713780.png">
+
+<img width="665" alt="Screenshot 2022-12-08 at 7 07 41 PM" src="https://user-images.githubusercontent.com/111096384/206592950-9b476fb2-3f2d-4d91-b01e-3f0e2b7e3f99.png">
+
+
+## The EasyEnsembleClassifier algorithm does the following:
+- An accuracy score of the model is calculated 
+- A confusion matrix has been generated 
+- An imbalanced classification report has been generated
+
+<img width="824" alt="Screenshot 2022-12-08 at 7 08 27 PM" src="https://user-images.githubusercontent.com/111096384/206593131-1cdd6957-9065-4b3d-87d4-9bbe18d51ce4.png">
+
+<img width="824" alt="Screenshot 2022-12-08 at 7 08 27 PM" src="https://user-images.githubusercontent.com/111096384/206593156-163ce115-8a20-4a00-95cc-2f9b0675dccf.png">
 
 # Deliverable 4: Analysis
 
